@@ -46,7 +46,7 @@ To simulate the project:
 
 1. Compile your Verilog files.
 2. Run the simulation.
-3. Check the waveform results to verify the functionality.
+3. Check the output comments to verify the functionality.
 
 ## File Structure
 
