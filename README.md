@@ -6,6 +6,8 @@ Decoder: https://www.edaplayground.com/x/Dbgd
 Decoder with error: https://www.edaplayground.com/x/Zxa
 
 # Hamming Code Encoder and Decoder
+![image](https://github.com/Tabrez-dev/Error-Detection-and-Correction-using-hamming-code-in-verilog-HDL/assets/75200693/1394be69-a057-44f8-95dd-c58c89b62248)
+
 ![image](https://github.com/Tabrez-dev/Error-Detection-and-Correction-using-hamming-code-in-verilog-HDL/assets/75200693/8e28e88d-a5f5-4a31-ae55-a4c64de45918)
 ## Overview
 
