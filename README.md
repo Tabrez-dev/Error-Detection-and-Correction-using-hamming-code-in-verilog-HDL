@@ -6,7 +6,7 @@ Decoder: https://www.edaplayground.com/x/Dbgd
 Decoder with error: https://www.edaplayground.com/x/Zxa
 
 # Hamming Code Encoder and Decoder
-
+![image](https://github.com/Tabrez-dev/Error-Detection-and-Correction-using-hamming-code-in-verilog-HDL/assets/75200693/8e28e88d-a5f5-4a31-ae55-a4c64de45918)
 ## Overview
 
 This project implements a Hamming Code Encoder and Decoder in Verilog HDL. The Hamming Code is a linear error-correcting code used for detecting and correcting errors in data transmissions. The project consists of two main modules - `ham_encoder` for encoding data and `ham_decoder` for decoding and error correction.
@@ -54,5 +54,6 @@ To simulate the project:
 - `ham_decoder.v`: Verilog file for the Hamming Code Decoder module.
 - `testencoder.v`: Testbench for the Encoder module.
 - `testdecoder.v`: Testbench for the Decoder module.
+
 
 
